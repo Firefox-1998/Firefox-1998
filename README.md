@@ -18,7 +18,7 @@
 ## 🛠 Technology Stack
 *   C#/Java/C++/PHP/COBOL/CLIPPER/FORTRAN and more other...
 *   Oracle, SQL, MySQL, MariaDB, PostgreSQL
-*   Kaspersky KSC/IDS/IPS type HIDS and type NIDS/ SIEM Qradar
+*   Kaspersky KSC/IDS/IPS type HIDS and type NIDS/SIEM Qradar
 *   WebSphere & SOA Application Development
 *   SABA LMS (standard SCORM)
 
