@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...always
 - 💞️ I’m looking to collaborate on ...what interests me
 - 📫 How to reach me ...by email
-- ⚡ Fun fact: ...1998 is not my birth year (I am oldest :smile: ) but it is the year I created my first "public" email
+- ⚡ Fun fact: ...1998 is not my birth year (I am oldest :smile: ) but it is the year I created my first "public" email and Firefox does not refer to the browser (in 1998 firefox, the browser, did not exist) but to an old film with Clint Eastwood. :smile:
 
   
 <p align='center'>  
