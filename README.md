@@ -9,7 +9,7 @@
 <p align='center'>  
    <a href="https://github-readme-stats.vercel.app/api?username=Firefox-1998&show_icons=true&count_private=true">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=Firefox-1998&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/romankh3/github-readme-stats">
+   <a href="https://github.com/Firefox-1998/github-readme-stats">
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firefox-1998&layout=compact"/></a>
   <br><br>
 </p>
