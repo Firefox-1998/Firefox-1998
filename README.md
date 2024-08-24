@@ -4,16 +4,22 @@
 - 💞️ I’m looking to collaborate on ...what interests me
 - 📫 How to reach me ...by email
 - ⚡ Fun fact: ...1998 is not my birth year (I am oldest :smile: ) but it is the year I created my first "public" email and Firefox does not refer to the browser (in 1998 firefox, the browser, did not exist) but to an old film with Clint Eastwood. :smile:
-
   
-<p align='center'>  
-   <a href="https://github-readme-stats.vercel.app/api?username=Firefox-1998&show_icons=true&count_private=true">
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=Firefox-1998&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/Firefox-1998/github-readme-stats">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firefox-1998&layout=compact"/></a>
-  <br><br>
+<p align='center'>
+  <br>
+  <br>
+  <a href="https://github-readme-stats.vercel.app/api?username=Firefox-1998&theme=radical&show_icons=true&hide_border=false&count_private=true">
+    <img height=170 src="https://github-readme-stats.vercel.app/api?username=Firefox-1998&theme=radical&show_icons=true&hide_border=false&count_private=true">
+  </a>
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=Firefox-1998&theme=radical&hide_border=false">
+    <img height=170 src="https://github-readme-streak-stats.herokuapp.com/?user=Firefox-1998&theme=radical&hide_border=false">
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Firefox-1998&theme=radical&show_icons=true&hide_border=false&layout=compact">
+    <img height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firefox-1998&theme=radical&show_icons=true&hide_border=false&layout=compact">
+  </a>
+  <br>
+  <br>
 </p>
-
 
 ## 🛠 Technology Stack
 *   C#/Java/C++/PHP/COBOL/CLIPPER/FORTRAN and more other...
